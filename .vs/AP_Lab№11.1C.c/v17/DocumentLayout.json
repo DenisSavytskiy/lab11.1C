@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D500CB34-2D00-46E9-8945-01ADAB8F4436}|AP_Lab\u211611.1C.c\\AP_Lab\u211611.1C.c.vcxproj|C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D500CB34-2D00-46E9-8945-01ADAB8F4436}|AP_Lab\u211611.1C.c\\AP_Lab\u211611.1C.c.vcxproj|solutionrelative:AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D76B8A-4B2F-4571-AE44-B90DF134D7C4}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8D76B8A-4B2F-4571-AE44-B90DF134D7C4}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AP_Lab\u211611.1 C.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c",
+              "RelativeDocumentMoniker": "AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c",
+              "RelativeToolTip": "AP_Lab\u211611.1C.c\\AP_Lab\u211611.1 C.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T02:25:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AP_Lab\u211611.1C.c\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:54:04.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
